@@ -32,14 +32,20 @@ Out of the box, there is no data in the database but you can use the examples be
    "name": "Tesla",
    "location": "Palo Alto, California, United States"
 }
+```
+```
 {
    "name": "Ford",
    "location": "Dearborn, Michigan, United States"
 }
+```
+```
 {
    "name": "Toyota",
    "location": "Toyota City, Aichi, Japan"
 }
+```
+```
 {
    "name": "Hyundai",
    "location": "Seaol, South Korea"
@@ -55,6 +61,8 @@ Out of the box, there is no data in the database but you can use the examples be
    "vehicleClass": "Sedan",
    "engineType": "Battery Electric"
 }
+```
+```
 {
    "makerId": <Ford ID>,
    "name": "Fusion",
