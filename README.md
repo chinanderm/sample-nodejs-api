@@ -1,2 +1,2 @@
-# sample-nodejs-api
-A sample Node.js API with Express, Typescript, and TypeORM
+# Sample - Node.js API
+A sample Node.js API application running with Express, Typescript, TypeORM, and MySQL.
